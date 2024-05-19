@@ -32,7 +32,7 @@ git link https://github.com/Semuulis/Semuliukas-GYM/tree/main
 ## Usage/Examples
 To start using **FitnessTracker**, run the following command in your terminal:
 ```python
-import Component from 'my-project'
+python fitness_tracker.py
 ```
 
 *Follow the on-screen prompts to navigate through the application.*
